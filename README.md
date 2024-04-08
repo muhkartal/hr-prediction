@@ -14,7 +14,7 @@ In this project, the analysis and model results on the dataset are examined in d
 
 ## Installation
 
-1. Clone the project: `git clone https://github.com/kullanici_adi/proje-adı.git`
+1. Clone the project: `git clone https://github.com/kullanici_adi/House-Rent-Prediction`
 2. Install the required libraries: `pip install -r requirements.txt`
 3. Open the project with Jupyter Notebook or Python IDE.
 
