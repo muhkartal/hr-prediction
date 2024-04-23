@@ -29,4 +29,4 @@ In this project, the analysis and model results on the dataset are examined in d
 This project is open source. Any contribution is welcome!
 
 ## Flowchart
-![](Images/Chart.png 100)
+![](Images/Chart.png)
