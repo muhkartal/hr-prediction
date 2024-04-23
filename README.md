@@ -24,9 +24,9 @@ In this project, the analysis and model results on the dataset are examined in d
 - `data/`: Data set files.
 - `models/`: Trained model files.
 
+## Flowchart Of System
+![](Images/Chart.png)
+
 ## Contributions
 
 This project is open source. Any contribution is welcome!
-
-## Flowchart
-![](Images/Chart.png)
